@@ -1,6 +1,6 @@
 # Basic Stock APP con PHP
 
-Breve descripción del proyecto y su propósito principal.
+Buscador de Acciones con PHP8.
 
 ## Propósito
 

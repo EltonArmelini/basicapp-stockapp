@@ -1,0 +1,17 @@
+{
+    "name": "basicapp/stocks",
+    "description": "Simple App for know stocks price",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Basicapp\\Stocks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EltonArmelini",
+            "email": "damotaelton@gmail.com"
+        }
+    ],
+    "require": {}
+}

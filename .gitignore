@@ -1,2 +1,3 @@
 #Excluyendo vendor
 /vendor/
+.env
